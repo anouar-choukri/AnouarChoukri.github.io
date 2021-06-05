@@ -1,7 +1,7 @@
 WELCOME,
-THIS IS MY PORTFOLIO WEBSITE 
-I USE THE BASICS LIKE HTML AND CSS,
-AND THE LOOP TEXT WITH JAVASCRIPT
+This is my portfolio website 
+I use the basics langages HTML and CSS,
+and the loop text with JavaScript
 
 LINK FOR THE WEB SITE :
 https://anouar-choukri.github.io/AnouarChoukri.github.io/
