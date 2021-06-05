@@ -1,2 +1,8 @@
-# AnouarChoukri.github.io
+WELCOME,
+THIS IS MY PORTFOLIO WEBSITE 
+I USE THE BASICS LIKE HTML AND CSS,
+AND THE LOOP TEXT WITH JAVASCRIPT
+
+LINK FOR THE WEB SITE :
+https://anouar-choukri.github.io/AnouarChoukri.github.io/
 
