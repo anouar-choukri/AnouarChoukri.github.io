@@ -1,5 +1,5 @@
 WELCOME,
-This is my portfolio website 
+This is my portfolio website,
 I use the basics langages HTML and CSS,
 and the loop text with JavaScript
 
